@@ -31,7 +31,7 @@ This project analyzes Blinkit sales data using Microsoft Excel to track sales pe
 
 ## Dashboard Preview
 
-Blinkit-Dashboard.png
+![Blinkit Dashboard](Blinkit-Dashboard.png)
 
 ## Files Included
 
